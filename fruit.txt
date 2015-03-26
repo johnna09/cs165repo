@@ -7,6 +7,6 @@ lime
 cherry
 watermelon
 tomato
-rhasberry
+raspberry
 blueberry
 strawberry
